@@ -22,7 +22,7 @@ Exploring data structures and algorithms<br>
 ## Let's Connect! 🔗
 I'm always open to connecting with fellow learners and Python enthusiasts.<br>If you're as excited about Python as I am, let's collaborate..
 
-## Feel free to reach out through the following channels 💬
+## Feel free to reach out 💬
 <p align='left'>
   
   <a href="https://www.linkedin.com/in/ivaylo-arsov-a05585268/">
