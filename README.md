@@ -2,12 +2,19 @@
 <br>
 ## Welcome to my Python Learning Journey! 🐍
 Hey there! I'm Ivaylo Arsov, a student with a burning passion for Python. I'm on a relentless pursuit of knowledge and excited to dive into the world of programming.
+<p align='left'>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
+  </a>&nbsp;&nbsp;
+  
+</p>
 ## About Me 🦥
 Avid gamer and a Python enthusiast. I'm eager to explore the endless possibilities that coding offers. I'm driven by curiosity and thrive on learning new concepts and solving challenges with Python.
 
 ## What I'm Learning 📖
-Mastering the fundamentals of Python programming<br>
+Mastering the fundamentals of Python programming<br> 
 Building a solid foundation in object-oriented programming<br>
 Exploring data structures and algorithms
 
