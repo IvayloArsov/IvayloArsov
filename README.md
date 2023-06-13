@@ -4,10 +4,10 @@
 Hey there! I'm Ivaylo Arsov, a student with a burning passion for Python.<br>
 I'm on a relentless pursuit of knowledge and excited to dive into the world of programming.
 
-## About Me 🦥
+## About Me 🗿
 Agile problem-solver with strategic thinking.<br>
 Passionate gamer and a Python enthusiast.<br>
-Eager to explore the coding world. 
+Eager to explore the world of coding. 
 <br>
 ## What I'm Learning 📖
 Mastering the fundamentals of Python programming<br> 
