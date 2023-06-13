@@ -20,7 +20,7 @@ I'm always open to connecting with fellow learners and Python enthusiasts. If yo
   <a href="https://www.linkedin.com/in/ivaylo-arsov-a05585268/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="discordapp.com/users/yourID/232549831208337409">
+  <a href="discordapp.com/users/232549831208337409">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
        
   </a>&nbsp;&nbsp;
