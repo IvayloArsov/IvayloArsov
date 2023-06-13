@@ -15,9 +15,7 @@ Exploring data structures and algorithms
 I'm always open to connecting with fellow learners and Python enthusiasts. If you're as excited about Python as I am, let's collaborate, learn, and grow together.
 
 ## Feel free to reach out through the following channels 💬
->Linkedin: https://www.linkedin.com/in/ivaylo-arsov-a05585268/ <br>
->Discord: @monsterhugs
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvayloArsov)](https://git.io/streak-stats)
-
+<p align="left">
+<a href="https://www.linkedin.com/in/ivaylo-arsov-a05585268/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="@monsterhugs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+</p>
