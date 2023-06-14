@@ -1,5 +1,7 @@
+![print('Hello, World!')](https://github.com/IvayloArsov/IvayloArsov/assets/125567658/a79b6429-3dc9-4ac3-b8d2-9e2c53f9479f)
+
 ## Welcome to my Python Learning Journey! 🐍
-Hey there! I'm Ivaylo Arsov, a student with a burning passion for Python.<br>
+Hey there! I'm Ivaylo, a Python student.<br>
 I'm on a relentless pursuit of knowledge and excited to dive into the world of programming.
 
 ## About Me 🗿
@@ -34,3 +36,5 @@ I'm always open to connecting with fellow learners and Python enthusiasts.<br>If
   </a>&nbsp;&nbsp;
   
 </p>
+
+
