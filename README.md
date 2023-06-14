@@ -1,28 +1,30 @@
-## Welcome to my Python Learning Journey! 🐍
-Hey there! I'm Ivaylo, a Python student.<br>
-I'm on a relentless pursuit of knowledge and excited to dive into the world of programming.
+# Welcome to my GitHub! 🐍
+Hey there! I'm Ivo, a web developer in the making.<br>
 
-## About Me 🗿
-Agile problem-solver with strategic thinking.<br>
-Passionate gamer and a Python enthusiast.<br>
-Eager to explore the world of coding. 
-<br>
-## What I'm Learning 📖
-Mastering the fundamentals of Python programming<br> 
-Building a solid foundation in object-oriented programming<br>
-Exploring data structures and algorithms<br>
+### About Me 🗿
 
+
+ - Avid rpg gamer and a Python enthusiast.<br>
+ - Problem-solver with extreme critical thinking.<br>
+
+
+### What I'm Learning 📖
+
+- Python Fundamentals <strong>@SoftUni</strong><br> 
+- Dabblin' in OOPs, Data structures and algorithms<br>
+
+<p align ='left'>
   <a href="">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
   </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  </a>&nbsp;&nbsp;
+</p>
 
-## Let's Connect! 🔗
-I'm always open to connecting with fellow learners and Python enthusiasts.<br>If you're as excited about Python as I am, let's collaborate..
+### Feel free to contact me 💬
 
-## Feel free to reach out 💬
 <p align='left'>
-  
   <a href="https://www.linkedin.com/in/ivaylo-arsov-a05585268/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -32,6 +34,4 @@ I'm always open to connecting with fellow learners and Python enthusiasts.<br>If
   <a href="mailto:ivayloarsov13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
 </p>
-
