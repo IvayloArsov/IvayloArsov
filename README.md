@@ -35,6 +35,3 @@ I'm always open to connecting with fellow learners and Python enthusiasts.<br>If
   
 </p>
 
-![print('Hello, World!')](https://github.com/IvayloArsov/IvayloArsov/assets/125567658/a79b6429-3dc9-4ac3-b8d2-9e2c53f9479f)
-
-
