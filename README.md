@@ -1,5 +1,3 @@
-![image](https://github.com/IvayloArsov/IvayloArsov/assets/125567658/7272b548-d711-49ae-b079-dcc181342052)
-<br>
 ## Welcome to my Python Learning Journey! 🐍
 Hey there! I'm Ivaylo Arsov, a student with a burning passion for Python.<br>
 I'm on a relentless pursuit of knowledge and excited to dive into the world of programming.
