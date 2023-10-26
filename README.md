@@ -4,21 +4,16 @@ Hey there! I'm Ivo, a web developer in the making.<br>
 ### About Me 🗿
 
 
- - Avid rpg gamer and a Python enthusiast.<br>
+ - Avid rpg gamer.<br>
  - Problem-solver with extreme critical thinking.<br>
 
+### What I'm learning 📖
 
-### What I'm Learning 📖
-
-- Python Fundamentals <strong>@SoftUni</strong><br> 
-- Dabblin' in OOPs, Data structures and algorithms<br>
+- Python OOP <strong>@SoftUni</strong><br> 
 
 <p align ='left'>
   <a href="">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   </a>&nbsp;&nbsp;
 </p>
 
