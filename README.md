@@ -1,16 +1,16 @@
-# Welcome to my GitHub! 🐍
-Hey there! I'm Ivo, a web developer in the making.<br>
+### Hey there! I'm Ivo and Welcome to my GitHub! 🐍
 
 ### About Me 🗿
-
-
- - Avid rpg gamer.<br>
- - Problem-solver with extreme critical thinking.<br>
+<ul>
+ <li>Avid rpg gamer.</li>
+ <li>Problem-solver with extreme critical thinking.</li>
+</ul>
 
 ### What I'm learning 📖
-
-- Python OOP <strong>@SoftUni</strong><br> 
-
+<ul>
+<li>Python</li>
+<li>HTML&CSS</li>
+</ul>
 <p align ='left'>
   <a href="">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
