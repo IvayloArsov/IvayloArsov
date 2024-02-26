@@ -6,6 +6,6 @@ const myself = {
     Udemy: "Scrum & Agile principles",
     book: "Linux Pocket Guide",
   },
-  freeTime: ["lego", "wow", "birdwatching"],
+  freeTime: ["lego", "wow", "sci-fi", "birdwatching"],
 };
 ```
