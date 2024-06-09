@@ -1,8 +1,8 @@
 ```javascript
 const myself = {
-  codeStack: ["Python", "Javascript", "HTML", "CSS"],
+  codeStack: ["Python", "Javascript", "HTML", "CSS", "SQL"],
   learning: {
-    SoftUni: "Javascript Front-end",
+    SoftUni: "Python DB",
     Udemy: "Scrum & Agile principles",
     book: "Linux Pocket Guide",
   },
