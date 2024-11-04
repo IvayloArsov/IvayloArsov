@@ -1,9 +1,9 @@
 ```javascript
 const myself = {
-  codeStack: ["Python", "Javascript", "HTML", "CSS", "PostgreSQL"],
+  codeStack: ["Python", "Javascript", "Django", "PostgreSQL"],
   frameworks: ["Django", "Flask"],
   learning: {
-    SoftUni: "Python DB",
+    SoftUni: "Python Web",
     Udemy: "Scrum & Agile principles",
     book: "Linux Pocket Guide",
   },
